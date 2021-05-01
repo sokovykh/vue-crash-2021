@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Docker",
+      "day": "March 1",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Doctor 2",
+      "day": "March 3",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Doctor 3",
+      "day": "March 3",
+      "reminder": true
+    }
+  ]
+}
